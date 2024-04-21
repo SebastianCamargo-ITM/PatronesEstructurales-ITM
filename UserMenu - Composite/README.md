@@ -1,18 +1,5 @@
-## Getting Started
+## MENU DE GESTION DE USUARIO (COMPOSITE)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Se selecciona el patrón Composite como la solución más adecuada. Con el patrón Composite, podemos construir una estructura jerárquica de opciones de menú. Las opciones compuestas pueden contener otras opciones (tanto compuestas como individuales), permitiendo así agrupar múltiples acciones bajo una sola opción. Esto proporciona una forma modular y flexible de construir y gestionar la funcionalidad del menú, facilitando la adición, eliminación o modificación de opciones de manera dinámica. 
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Adicionalmente este patrón facilita la implementación de un Iterador para hacer el recorrido de todos los componentes, independientemente de la complejidad de la estructura del menú. 
