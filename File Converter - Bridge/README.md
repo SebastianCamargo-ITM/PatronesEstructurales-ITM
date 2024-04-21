@@ -1,18 +1,3 @@
-## Getting Started
+## CONVERTIDOR DE FORMATO DE ARCHIVOS (BRIDGE)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Para abordar este problema, se escoge el patrón Bridge para el desarrollo de la solución. Este patrón ofrece una gestión de archivos flexible, mantenible y escalable. Nos brinda la capacidad de añadir nuevos formatos en el futuro con solo crear una nueva implementación de los Formatos de Archivo, o realizar cambios en los existentes sin afectar la funcionalidad principal de la aplicación. Al separar la lógica general de gestión de archivos de los detalles específicos de cada formato, el patrón Bridge facilita el mantenimiento del código, la corrección de errores y garantiza la integridad de los datos durante las operaciones de conversión entre formatos. 
