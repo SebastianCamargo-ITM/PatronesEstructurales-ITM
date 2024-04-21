@@ -8,7 +8,7 @@ Para abordar este problema, se escoge el patrón Bridge para el desarrollo de la
 
 ### Diagrama de Clases 
 
-![Diagrama Entrega 2 - Patrones-File Converter - Bridge drawio](https://github.com/SebastianCamargo-ITM/PatronesEstructurales-ITM/assets/160674875/e97d1fbf-18b9-4c2c-b4d6-144e02755453)
+![Diagrama Entrega 2 - Patrones-File Converter - Bridge drawio](https://github.com/SebastianCamargo-ITM/PatronesEstructurales-ITM/blob/main/diagrams/Diagrama%20Entrega%202%20-%20Patrones-File%20Converter%20-%20Bridge.drawio.png)
 
 
 
@@ -22,7 +22,7 @@ Con el patrón Decorator, podemos añadir características opcionales al vehícu
 
 ### Diagrama de Clases 
 
-![Diagrama Entrega 2 - Patrones-Car Customizer - Decorator drawio](https://github.com/SebastianCamargo-ITM/PatronesEstructurales-ITM/assets/160674875/534fc53f-acad-48ab-a9a3-79cbd26e1685)
+![Diagrama Entrega 2 - Patrones-Car Customizer - Decorator drawio](https://github.com/SebastianCamargo-ITM/PatronesEstructurales-ITM/blob/main/diagrams/Diagrama%20Entrega%202%20-%20Patrones-Car%20Customizer%20-%20Decorator.drawio.png)
 
 
 
@@ -40,4 +40,4 @@ Además, este patrón facilita la implementación de un Iterador para recorrer t
  
 ### Diagrama de Clases 
 
-![Diagrama Entrega 2 - Patrones-UserMenu - Composite drawio](https://github.com/SebastianCamargo-ITM/PatronesEstructurales-ITM/assets/160674875/2767fc60-c05a-4229-b3b8-50b8ff535353)
+![Diagrama Entrega 2 - Patrones-UserMenu - Composite drawio](https://github.com/SebastianCamargo-ITM/PatronesEstructurales-ITM/blob/main/diagrams/Diagrama%20Entrega%202%20-%20Patrones-UserMenu%20-%20Composite.drawio.png)
