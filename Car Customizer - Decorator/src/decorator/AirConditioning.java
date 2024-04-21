@@ -15,6 +15,6 @@ public class AirConditioning extends CarDecorator {
 
     @Override
     public double getCost() {
-        return super.getCost() + 1000.0;
+        return super.getCost() + 800000;
     }
 }

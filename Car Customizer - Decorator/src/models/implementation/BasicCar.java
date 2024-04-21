@@ -8,7 +8,7 @@ public class BasicCar implements Car {
     }
 
     public double getCost() {
-        return 15000.0;
+        return 79899000;
     }
 
 }

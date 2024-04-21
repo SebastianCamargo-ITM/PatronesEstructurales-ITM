@@ -9,11 +9,11 @@ public class NavigationSystem extends CarDecorator {
 
     @Override
     public String getDescription() {
-        return super.getDescription() + ", Navigation";
+        return super.getDescription() + ", GPS";
     }
 
     @Override
     public double getCost() {
-        return super.getCost() + 2000.0;
+        return super.getCost() + 500000;
     }
 }
